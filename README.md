@@ -1,5 +1,5 @@
 # Khimik
-The essence of the project - development of an iOS application that will allow you to stroll around the sculpture garden. The sculpture garden consists of 3d models that have formed an augmented reality in the park near the Vrubel building. Models can also be arranged in a home environment.
+The point of the project is the creation of a website for cultural center Khimik. We need a stylish website for a youth center.
 ## Demo
 <table>
   <tr>
