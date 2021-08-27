@@ -3,14 +3,14 @@ The essence of the project - development of an iOS application that will allow y
 ## Theme Demo
 <table>
   <tr>
-    <td align="center">Home</td>
-    <td align="center">Catalog</td>
-    <td align="center">Description of the statue</td>
+    <td align="center">Main</td>
+    <td align="center">Our mission</td>
+    <td align="center">About us</td>
   </tr>
   <tr>
-    <td width=11% align="center"><img src="https://github.com/egortaran/ReadUs/blob/main/image/Simulator_Screen_Shot_iPhone_11_Pro_Max_2021_08_27_at_00_27_44.png" width="250" /></td>
-    <td width=11% align="center"><img src="https://github.com/egortaran/ReadUs/blob/main/image/Simulator_Screen_Shot_iPhone_11_Pro_Max_2021_08_27_at_00_27_47.png" width="250" /></td>
-    <td width=11% align="center"><img src="https://github.com/egortaran/ReadUs/blob/main/image/Simulator_Screen_Shot_iPhone_11_Pro_Max_2021_08_27_at_00_27_50.png" width="250" /></td>
+    <td width=11% align="center"><img src="main.png" width="250" /></td>
+    <td width=11% align="center"><img src="target.png" width="250" /></td>
+    <td width=11% align="center"><img src="about.png" width="250" /></td>
   </tr>
  </table>
  
