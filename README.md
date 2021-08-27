@@ -1,16 +1,30 @@
 # Khimik
 The essence of the project - development of an iOS application that will allow you to stroll around the sculpture garden. The sculpture garden consists of 3d models that have formed an augmented reality in the park near the Vrubel building. Models can also be arranged in a home environment.
-## Theme Demo
+## Demo
 <table>
   <tr>
     <td align="center">Main</td>
+  </tr>
+  <tr>
+    <td width=11% align="center"><img src="main.png" width="900" /></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
     <td align="center">Our mission</td>
+  </tr>
+  <tr>
+    <td width=11% align="center"><img src="target.png" width="900" /></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
     <td align="center">About us</td>
   </tr>
   <tr>
-    <td width=11% align="center"><img src="main.png" width="250" /></td>
-    <td width=11% align="center"><img src="target.png" width="250" /></td>
-    <td width=11% align="center"><img src="about.png" width="250" /></td>
+    <td width=11% align="center"><img src="about.png" width="900" /></td>
   </tr>
  </table>
  
