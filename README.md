@@ -18,7 +18,7 @@ The essence of the project - development of an iOS application that will allow y
  
  ### SDK/tools for working with the project
   * Access to a browser with internet.
-  * [Tilda] (https://tilda.cc/ru/) - website builder and web design platform.
+  * [Tilda](https://tilda.cc/ru/) - website builder and web design platform.
 
  ### Running a project on a local machine
   1.	Log into tilda account.
